@@ -1,0 +1,10 @@
+# Created while the frame runs
+photoframe.log
+photoframe.log.*
+__pycache__/
+
+# Your media stays on the Pi, not in the repo
+pictures/
+videos/
+fixed/
+encode.log
